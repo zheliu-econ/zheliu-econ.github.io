@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, University of Washington, 2023 
+* M.A. in International Relations and Economics, Johns Hopkins School of Advanced International Studies, 2014
+* B.S. in Economics, Zhejiang University, 2012
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Consultant, The Center for Social Science Computation and Research (UW), 2020 - 2021
+  
+* Research Analyst, IMF, 2014 - 2017 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+University of Washington
+
+Introduction to Microeconomics
+\
+<span style="color: grey;">_Instructor: Winter, Spring 2020_
+
+Data Science Masters Capstone I and II
+\
+<span style="color: grey;">_TA: Fall 2018, Winter 2019_</span>
+
+Workshop: Introduction to Stata
+\
+<span style="color: grey;">_Instructor: Fall 2020, Winter 2021_</span>
+
+Workshop: Graphics in Stata
+\
+<span style="color: grey;">_Instructor: Spring 2021_</span>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
