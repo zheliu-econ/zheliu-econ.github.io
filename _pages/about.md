@@ -12,7 +12,7 @@ I'm Zhe (pronounced like "_Juh_"), currently a Postdoctoral Fellow at UC Berkele
 
 My research interests lie in development and labor economics, with a specific focus on exploring the impact of digital connectivity on labor and retail finance markets in developing countries. 
 
-Please find my [CV](http://zheliu.github.io/files/zheliu_cv.pdf) here.
+Please find my [CV](http://zheliu-econ.github.io/files/zheliu_cv.pdf) here.
 
 
 
