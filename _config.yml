@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhe Liu, PhD"
+title                    : 
 title_separator          : "-"
 name                     : &name "Zhe Liu"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhe Liu"
-  avatar           : "profile.png"
+  avatar           : "Zhe Liu.jpeg"
   bio              : "Economist"
   location         : "Berkeley, CA"
   employer         :
