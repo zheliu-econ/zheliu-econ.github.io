@@ -61,7 +61,7 @@ I also taught **Digital Finance and Financial Inclusion** at UC Berkeley in Spri
   <div class="experience-item"><img class="experience-logo" src="https://www.google.com/s2/favicons?domain=stripe.com&amp;sz=128" alt="Stripe logo" loading="lazy"><div><strong>Stripe</strong><span>Economist · Current</span></div></div>
   <div class="experience-item"><img class="experience-logo" src="https://www.google.com/s2/favicons?domain=meta.com&amp;sz=128" alt="Meta logo" loading="lazy"><div><strong>Meta</strong><span>Data Scientist</span></div></div>
   <div class="experience-item"><img class="experience-logo" src="https://www.google.com/s2/favicons?domain=berkeley.edu&amp;sz=128" alt="UC Berkeley logo" loading="lazy"><div><strong>UC Berkeley</strong><span>Postdoctoral Researcher · Lecturer</span></div></div>
-  <div class="experience-item"><span class="experience-logo imf-wordmark" aria-label="IMF">IMF</span><div><strong>International Monetary Fund</strong><span>Research Analyst</span></div></div>
+  <div class="experience-item"><img class="experience-logo" src="https://upload.wikimedia.org/wikipedia/commons/3/3e/IMF-Seal_ENG_RGB.svg" alt="International Monetary Fund seal" loading="lazy"><div><strong>International Monetary Fund</strong><span>Research Analyst</span></div></div>
 </div>
 
 <div class="footer-links">Explore my <a href="/research/">research</a> and <a href="/teaching/">teaching</a>, or find me on <a href="https://www.linkedin.com/in/zhe-liu/">LinkedIn</a>.</div>
