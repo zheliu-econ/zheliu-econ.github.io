@@ -16,7 +16,7 @@ Natalia Cantet, Clara Delavallade, Alan Griffith, Zhe Liu, and Rebecca Thornton.
 ## Policy Publications
 
 **[Firms and Digital Payments: Evidence from Censal Microdata](https://refind-isser.ug.edu.gh/index.php/node/224)**  
-**Zhe Liu (sole author).**  
+Zhe Liu.  
 *ReFinD Policy Paper* (2025). Supported by the Gates Foundation. [Report](https://refind-isser.ug.edu.gh/index.php/node/224)
 
 ## Working Papers
