@@ -84,7 +84,7 @@ author:
   avatar           : "Zhe Liu.jpeg"
   bio              : "Economist & Data Scientist"
   location         : "Berkeley, CA"
-  employer         : "Stripe"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "zhe.liu@berkeley.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zheliu-econ"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
