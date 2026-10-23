@@ -30,9 +30,9 @@ author_profile: true
 
 <div class="eyebrow">Economist at Stripe</div>
 
-I'm Zhe (pronounced "Juh"), an economist interested in how technology shapes businesses, labor markets, and economic opportunity. I earned my Ph.D. in Economics from the University of Washington in 2023.
+I'm Zhe (pronounced "Juh"), an **Economist at Stripe** with a Ph.D. in Economics from the University of Washington.
 
-My work brings together economic research and data science. Before Stripe, I worked as a Data Scientist at **Meta**, a postdoctoral researcher at **UC Berkeley** studying digital financial services in Ghana, and a Research Analyst at the **International Monetary Fund (IMF)**.
+My work combines economic research and data science to understand how technology affects businesses and people. My research interests include digital finance, labor markets, and economic development.
 
 I also taught **Digital Finance and Financial Inclusion** at UC Berkeley in Spring 2026.
 
