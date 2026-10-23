@@ -1,0 +1,67 @@
+---
+permalink: /preview/homepage/
+title: "Zhe Liu"
+excerpt: "Economist at Stripe"
+author_profile: true
+---
+
+<style>
+.zhe-home {max-width: 850px;}
+.zhe-home .eyebrow {font-size:.82rem; font-weight:700; text-transform:uppercase; letter-spacing:.12em; color:#52657b; margin-bottom:.6rem;}
+.zhe-home .intro {font-size:1.12rem; line-height:1.75; margin:1rem 0 1.35rem;}
+.zhe-home h2 {margin-top:2.4rem; padding-bottom:.5rem;}
+.zhe-home .research-grid {display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin-top:1rem;}
+.zhe-home .research-card {border:1px solid #dce2e8; border-radius:12px; padding:1.3rem; text-decoration:none; color:inherit; display:block; transition:border-color .2s,transform .2s;}
+.zhe-home .research-card:hover {border-color:#64748b; transform:translateY(-2px); text-decoration:none;}
+.zhe-home .research-card h3 {font-size:1.12rem; line-height:1.35; margin:.6rem 0;}
+.zhe-home .research-card p {font-size:.93rem; line-height:1.55; margin-bottom:0;}
+.zhe-home .meta {font-size:.81rem; color:#5e6b77;}
+.zhe-home .experience-grid {display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.85rem; margin-top:1rem;}
+.zhe-home .experience-item {padding:.85rem 1rem; border-left:3px solid #a9bdcd; background:#f5f7f9;}
+.zhe-home .experience-item strong {display:block; margin-bottom:.2rem;}
+.zhe-home .experience-item span {font-size:.89rem; color:#455564;}
+.zhe-home .footer-links {margin-top:1.75rem; font-size:.95rem;}
+@media(max-width:640px){.zhe-home .research-grid,.zhe-home .experience-grid{grid-template-columns:1fr;}.zhe-home .intro{font-size:1.02rem;}}
+</style>
+
+<div class="zhe-home" markdown="1">
+
+<div class="eyebrow">Economist at Stripe</div>
+
+I'm Zhe (pronounced "Juh"), an economist interested in how technology shapes businesses, labor markets, and economic opportunity. I earned my Ph.D. in Economics from the University of Washington in 2023.
+
+My work brings together economic research and data science. Before Stripe, I worked as a Data Scientist at **Meta**, a postdoctoral researcher at **UC Berkeley** studying digital financial services in Ghana, and a Research Analyst at the **International Monetary Fund (IMF)**.
+
+I also taught **Digital Finance and Financial Inclusion** at UC Berkeley in Spring 2026.
+
+## Selected Research
+
+<div class="research-grid">
+  <a class="research-card" href="https://refind-isser.ug.edu.gh/index.php/node/224">
+    <span class="meta">Ghana · ReFinD Policy Paper · 2025</span>
+    <h3>Why aren't more firms using digital payments?</h3>
+    <p>Evidence from a census of approximately 1.86 million businesses, examining adoption and barriers to digital payments.</p>
+    <p class="meta">Read the policy paper →</p>
+  </a>
+  <a class="research-card" href="/files/JMP_Zhe.pdf">
+    <span class="meta">South Africa · Working paper</span>
+    <h3>Does better internet access improve employment?</h3>
+    <p>Research on how expanded internet connectivity affects employment, earnings, and job search.</p>
+    <p class="meta">Read the working paper →</p>
+  </a>
+</div>
+
+[View all research →](/research/)
+
+## Experience
+
+<div class="experience-grid">
+  <div class="experience-item"><strong>Stripe</strong><span>Economist · Current</span></div>
+  <div class="experience-item"><strong>Meta</strong><span>Data Scientist</span></div>
+  <div class="experience-item"><strong>UC Berkeley</strong><span>Postdoctoral Researcher · Lecturer</span></div>
+  <div class="experience-item"><strong>International Monetary Fund</strong><span>Research Analyst</span></div>
+</div>
+
+<div class="footer-links">Explore my <a href="/research/">research</a> and <a href="/teaching/">teaching</a>, or find me on <a href="https://www.linkedin.com/in/zhe-liu/">LinkedIn</a>.</div>
+
+</div>
