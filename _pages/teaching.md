@@ -10,7 +10,7 @@ author_profile: true
 **ECON 145: Digital Finance and Financial Inclusion**  
 Lecturer, Spring 2026
 
-An undergraduate course covering digital payments, financial inclusion, two-sided markets, digital credit, and the economics of financial technology.
+An undergraduate course dives into the economics of digital finance, exploring how it’s transforming payments, credit, and financial inclusion in both advanced and emerging markets.
 
 ## University of Washington
 
