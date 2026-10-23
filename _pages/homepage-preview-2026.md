@@ -28,9 +28,9 @@ author_profile: true
 
 <div class="zhe-home" markdown="1">
 
-<div class="eyebrow">Economist at Stripe</div>
+<div class="eyebrow">Pronounced “Juh”</div>
 
-I'm Zhe (pronounced "Juh"), an **Economist at Stripe** with a Ph.D. in Economics from the University of Washington.
+I'm Zhe, an **Economist at Stripe** with a Ph.D. in Economics from the University of Washington.
 
 My work combines economic research and data science to understand how technology affects businesses and people. My research interests include digital finance, labor markets, and economic development.
 
