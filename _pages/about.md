@@ -10,6 +10,7 @@ redirect_from:
 
 <style>
 .zhe-home {max-width: 850px;}
+.zhe-home .name-pronunciation {font-size:.92rem; font-weight:400; text-transform:none; letter-spacing:normal; color:#52657b; margin-bottom:.6rem;}
 .zhe-home .eyebrow {font-size:.82rem; font-weight:700; text-transform:uppercase; letter-spacing:.12em; color:#52657b; margin-bottom:.6rem;}
 .zhe-home .intro {font-size:1.12rem; line-height:1.75; margin:1rem 0 1.35rem;}
 .zhe-home h2 {margin-top:1.75rem; padding-bottom:.35rem;}
@@ -31,7 +32,7 @@ redirect_from:
 
 <div class="zhe-home" markdown="1">
 
-<div class="eyebrow">Pronounced “Juh”</div>
+<div class="name-pronunciation"><em>pronounced “Juh”</em></div>
 
 I'm Zhe, an **Economist at Stripe** with a Ph.D. in Economics from the University of Washington.
 
