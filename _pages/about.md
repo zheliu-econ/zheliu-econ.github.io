@@ -1,19 +1,14 @@
 ---
 permalink: /
-#title: "Welcome"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm Zhe (pronounced like "_Juh_"), currently a Postdoctoral Fellow at UC Berkeley and University of Ghana, working on the [Retail Finance Distribution (ReFinD)](https://refind-isser.ug.edu.gh/) research initiative. I graduated from the University of Washington in 2023 with a Ph.D. in Economics. Before graduate school, I worked as a Research Analyst at the IMF. 
+I'm Zhe (pronounced "Juh"), currently an **Economist at Stripe**. I earned my Ph.D. in Economics from the University of Washington in 2023.
 
-My research interests lie in development and labor economics, with a specific focus on exploring the impact of digital connectivity on labor and retail finance markets in developing countries. 
+My work combines economic research and data science, focusing on understanding how technology affects businesses and people. I previously worked as a Senior Data Scientist at Meta. Before that, I was a postdoctoral researcher at UC Berkeley working on digital financial services in Ghana, and a Research Analyst at the International Monetary Fund (IMF).
 
-Please find my [CV](http://zheliu-econ.github.io/files/zheliu_cv.pdf) here.
-
-
-
-
+My academic research examines internet connectivity, labor markets, digital finance, and development economics. I also taught **Digital Finance and Financial Inclusion** at UC Berkeley in Spring 2026.
