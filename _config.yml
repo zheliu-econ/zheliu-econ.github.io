@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : 
 title_separator          : "-"
 name                     : &name "Zhe Liu"
-description              : &description "personal description"
+description              : &description "Economist and Data Scientist"
 url                      : "https://zheliu-econ.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zheliu-econ/zheliu-econ.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhe Liu"
   avatar           : "Zhe Liu.jpeg"
-  bio              : "Economist"
+  bio              : "Economist & Data Scientist"
   location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
