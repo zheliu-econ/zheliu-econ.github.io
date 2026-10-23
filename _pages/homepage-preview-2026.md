@@ -19,6 +19,7 @@ author_profile: true
 .zhe-home .experience-grid {display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.85rem; margin-top:1rem;}
 .zhe-home .experience-item {display:flex; align-items:center; gap:.8rem; padding:.85rem 1rem; border-left:3px solid #a9bdcd; background:#f5f7f9;}
 .zhe-home .experience-logo {width:42px; height:42px; object-fit:contain; background:white; border:1px solid #e5e9ed; border-radius:9px; padding:5px; flex-shrink:0;}
+.zhe-home .imf-wordmark {display:flex; align-items:center; justify-content:center; background:#184b83; color:white; font-size:.85rem; font-weight:700; letter-spacing:.02em; padding:0;}
 .zhe-home .experience-item strong {display:block; margin-bottom:.2rem;}
 .zhe-home .experience-item span {font-size:.89rem; color:#455564;}
 .zhe-home .footer-links {margin-top:1.75rem; font-size:.95rem;}
@@ -60,7 +61,7 @@ I also taught **Digital Finance and Financial Inclusion** at UC Berkeley in Spri
   <div class="experience-item"><img class="experience-logo" src="https://www.google.com/s2/favicons?domain=stripe.com&amp;sz=128" alt="Stripe logo" loading="lazy"><div><strong>Stripe</strong><span>Economist · Current</span></div></div>
   <div class="experience-item"><img class="experience-logo" src="https://www.google.com/s2/favicons?domain=meta.com&amp;sz=128" alt="Meta logo" loading="lazy"><div><strong>Meta</strong><span>Data Scientist</span></div></div>
   <div class="experience-item"><img class="experience-logo" src="https://www.google.com/s2/favicons?domain=berkeley.edu&amp;sz=128" alt="UC Berkeley logo" loading="lazy"><div><strong>UC Berkeley</strong><span>Postdoctoral Researcher · Lecturer</span></div></div>
-  <div class="experience-item"><img class="experience-logo" src="https://www.google.com/s2/favicons?domain=imf.org&amp;sz=128" alt="International Monetary Fund logo" loading="lazy"><div><strong>International Monetary Fund</strong><span>Research Analyst</span></div></div>
+  <div class="experience-item"><span class="experience-logo imf-wordmark" aria-label="IMF">IMF</span><div><strong>International Monetary Fund</strong><span>Research Analyst</span></div></div>
 </div>
 
 <div class="footer-links">Explore my <a href="/research/">research</a> and <a href="/teaching/">teaching</a>, or find me on <a href="https://www.linkedin.com/in/zhe-liu/">LinkedIn</a>.</div>
